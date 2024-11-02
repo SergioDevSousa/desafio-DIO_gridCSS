@@ -6,6 +6,7 @@ Este projeto foi desenvolvido como parte de um desafio oferecido pela Digital In
 
 - Sobre o Projeto
 - Tecnologias Utilizadas
+- Deploy
 - Funcionalidades
 - Como Executar o Projeto
 - Desafios e Aprendizados
@@ -21,6 +22,11 @@ A ideia foi explorar os recursos de layout moderno do CSS3, com ênfase no displ
 
 - HTML5: Estruturação do conteúdo e semântica.
 - CSS3: Estilização e layout com foco em CSS Grid.
+
+### Deploy
+
+Clique no Link pra ver o resultado da atividade.
+[Link Demonstração](https://sergiodevsousa.github.io/desafio-DIO_gridCSS/)
 
 ### Funcionalidades
 
